@@ -1,0 +1,10 @@
+{
+  "name": "tab-count-entry",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "make.fun entry for How Many Tabs Do You Have Open?",
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
